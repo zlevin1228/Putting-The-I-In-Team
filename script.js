@@ -12,6 +12,7 @@ const teamMembers = [
     points: 1,
     biography:
       "Jason Robertson is considered to be one of the most talented wingers in the NHL.",
+    img: "imgs/pow.png"
   },
   {
     name: "Jack Hughes",
@@ -24,6 +25,7 @@ const teamMembers = [
     points: 1,
     biography:
       "Jack Hughes is considered to be one of the most talented centers in the NHL.",
+    img: "imgs/pow.png"
   },
   {
     name: "Nikita Kucherov",
@@ -36,6 +38,7 @@ const teamMembers = [
     points: 1,
     biography:
       "Nikita Kucherov is considered to be one of the most talented wingers in the NHL.",
+    img: "imgs/pow.png"
   },
   {
     name: "Artemi Panarin",
@@ -48,6 +51,7 @@ const teamMembers = [
     points: 1,
     biography:
       "Artemi Panarin is considered to be one of the most talented wingers in the NHL.",
+    img: "imgs/pow.png"
   },
   {
     name: "Connor McDavid",
@@ -60,6 +64,7 @@ const teamMembers = [
     points: 1,
     biography:
       "Connor McDavid is considered to be one of the most talented centers in the NHL.",
+    img: "imgs/pow.png"
   },
   {
     name: "David Pastrnak",
@@ -72,6 +77,7 @@ const teamMembers = [
     points: 1,
     biography:
       "David Pastrnak is considered to be one of the most talented wingers in the NHL.",
+    img: "imgs/pow.png"
   },
   {
     name: "Kirill Kaprizov",
@@ -84,6 +90,7 @@ const teamMembers = [
     points: 1,
     biography:
       "Kirill Kaprizov is considered to be one of the most talented wingers in the NHL.",
+    img: "imgs/pow.png"
   },
   {
     name: "Nathan MacKinnon",
@@ -96,6 +103,7 @@ const teamMembers = [
     points: 1,
     biography:
       "Nathan MacKinnon is considered to be one of the most talented centers in the NHL.",
+    img: "imgs/pow.png"
   },
   {
     name: "Mikko Rantanen",
@@ -108,6 +116,7 @@ const teamMembers = [
     points: 1,
     biography:
       "Mikko Rantanen is considered to be one of the most talented wingers in the NHL.",
+    img: "imgs/pow.png"
   },
   {
     name: "Kyle Connor",
@@ -120,6 +129,7 @@ const teamMembers = [
     points: 1,
     biography:
       "Kyle Connor is considered to be one of the most talented wingers in the NHL.",
+    img: "imgs/pow.png"
   },
   {
     name: "Auston Matthews",
@@ -132,6 +142,7 @@ const teamMembers = [
     points: 1,
     biography:
       "Auston Matthews is considered to be one of the most talented centers in the NHL.",
+    img: "imgs/pow.png"
   },
   {
     name: "Mitch Marner",
@@ -144,6 +155,7 @@ const teamMembers = [
     points: 1,
     biography:
       "Mitch Marner is considered to be one of the most talented wingers in the NHL.",
+    img: "imgs/pow.png"
   },
 ];
 
@@ -159,6 +171,7 @@ const teamMembers2 = [
     points: 1,
     biography:
       "Cale Makar is considered to be one of the most talented defensemen in the NHL.",
+    img: "imgs/pow.png"
   },
   {
     name: "Adam Fox",
@@ -171,6 +184,7 @@ const teamMembers2 = [
     points: 1,
     biography:
       "Adam Fox is considered to be one of the most talented defensemen in the NHL.",
+    img: "imgs/pow.png"
   },
   {
     name: "Miro Heiskanen",
@@ -183,6 +197,7 @@ const teamMembers2 = [
     points: 1,
     biography:
       "Miro Heiskanen is considered to be one of the most talented defensemen in the NHL.",
+    img: "imgs/pow.png"
   },
   {
     name: "Quinn Hughes",
@@ -195,6 +210,7 @@ const teamMembers2 = [
     points: 1,
     biography:
       "Quinn Hughes is considered to be one of the most talented defensemen in the NHL.",
+    img: "imgs/pow.png"
   },
   {
     name: "Charlie McAvoy",
@@ -207,6 +223,7 @@ const teamMembers2 = [
     points: 1,
     biography:
       "Charlie McAvoy is considered to be one of the most talented defensemen in the NHL.",
+    img: "imgs/pow.png"
   },
   {
     name: "Victor Hedman",
@@ -219,7 +236,73 @@ const teamMembers2 = [
     points: 1,
     biography:
       "Victor Hedman is considered to be one of the most talented defensemen in the NHL.",
+    img: "imgs/pow.png"
   },
+];
+
+const teamMembers3 = [
+  {
+    name: "Leon Draisatl",
+    age: 28,
+    number: 29,
+    club: "Edmonton Oilers",
+    position: "Center",
+    goals: 1,
+    assists: 1,
+    points: 1,
+    biography:
+      "Leon Draisaitl is considered to be one of the most talented defensemen in the NHL.",
+    img: "imgs/pow.png"
+  },
+  {
+    name: "Matthew Tkachuk",
+    age: 26,
+    number: 19,
+    club: "Florida Panthers",
+    position: "Winger",
+    goals: 1,
+    assists: 1,
+    points: 1,
+    biography:
+      "Matthew Tkachuk is considered to be one of the most talented defensemen in the NHL.",
+    img: "imgs/pow.png"
+  },
+  {
+    name: "Roman Josi",
+    age: 33,
+    number: 59,
+    club: "Nashville Predators",
+    position: "Defenseman",
+    goals: 1,
+    assists: 1,
+    points: 1,
+    biography:
+      "Roman Josi is considered to be one of the most talented defensemen in the NHL.",
+    img: "imgs/pow.png"
+  },
+];
+
+const teamMembers4 = [
+  {
+    name: "Igor Shesterkin",
+    age: 28,
+    number: 31,
+    club: "New York Rangers",
+    position: "Goalie",
+    biography:
+      "Igor Shesterkin is considered to be one of the most talented defensemen in the NHL.",
+    img: "imgs/pow.png"
+  },
+  {
+    name: "Ilya Sorokin",
+    age: 28,
+    number: 30,
+    club: "New York Islanders",
+    position: "Goalie",
+    biography:
+      "Ilya Sorokin is considered to be one of the most talented defensemen in the NHL.",
+    img: "imgs/pow.png"
+  }
 ];
 
 function generateTeamCards() {
@@ -270,6 +353,9 @@ function generateTeamCards() {
         <div class = "card text-white">
             <div class = "card-header">
                 ${member.name}
+            </div>
+            <div class = "card-image">
+              <img src="${member.img}" class="img-fluid">
             </div>
             <div class = "card-body" style="background-color:${backgroundColor};">
                 <p><strong>Age: </strong>${member.age}</p> 
@@ -332,6 +418,9 @@ function generateTeamCards() {
           <div class = "card-header">
             ${member.name}
           </div>
+          <div class = "card-image">
+            <img src="${member.img}" class="img-fluid">
+          </div>
           <div class = "card-body" style="background-color:${backgroundColor};">
            <p><strong>Age: </strong>${member.age}</p> 
           </div>
@@ -356,6 +445,106 @@ function generateTeamCards() {
       card2.children[i].style.backgroundColor = backgroundColor;
     }
     teamCardsContainer2.appendChild(card2);
+  });
+
+  const teamCardsContainer3 = document.getElementById("teamCardsExtras");
+
+  teamMembers3.forEach((member) => {
+    const card3 = document.createElement("div");
+    card3.classList.add("col-md-4");
+    card3.classList.add("py-2");
+
+    let backgroundColor;
+    switch (member.club) {
+      case "Nashville Predators":
+        backgroundColor = "#FFB81C"; // Red for centers
+        break;
+      case "Florida Panthers":
+        backgroundColor = "#C8102E"; // Blue for defensemen
+        break;
+      case "Edmonton Oilers":
+        backgroundColor = "#FF4C00"; // Green for wingers
+        break;
+      default:
+        backgroundColor = "gray"; // Gray for other positions
+    }
+
+    card3.innerHTML = `
+        <div class = "card text-white">
+          <div class = "card-header">
+            ${member.name}
+          </div>
+          <div class = "card-image">
+            <img src="${member.img}" class="img-fluid">
+          </div>
+          <div class = "card-body" style="background-color:${backgroundColor};">
+           <p><strong>Age: </strong>${member.age}</p> 
+          </div>
+          <div class = "card-body" style="background-color:${backgroundColor};">
+            <p><strong>Position: </strong>${member.position}</p> 
+          </div>
+          <div class = "card-body" style="background-color:${backgroundColor};">
+            <p><strong>Club Team: </strong>${member.club}</p> 
+          </div>
+          <div class = "card-body" style="background-color:${backgroundColor};">
+            <p><strong>Goals: </strong>${member.goals}</p> 
+          </div>
+          <div class = "card-body" style="background-color:${backgroundColor};">
+            <p><strong>Assists: </strong>${member.assists}</p> 
+          </div>
+          <div class = "card-body" style="background-color:${backgroundColor};">
+            <p><strong>Points: </strong>${member.points}</p> 
+          </div>
+        </div>
+        `;
+    for (let i = 0; i < card3.children.length; i++) {
+      card3.children[i].style.backgroundColor = backgroundColor;
+    }
+    teamCardsContainer3.appendChild(card3);
+  });
+
+  const teamCardsContainer4 = document.getElementById("teamCardsGoalie");
+
+  teamMembers4.forEach((member) => {
+    const card4 = document.createElement("div");
+    card4.classList.add("col-md-6");
+    card4.classList.add("py-2");
+
+    let backgroundColor;
+    switch (member.club) {
+      case "New York Rangers":
+        backgroundColor = "#0038A8"; // Orange for goaltenders
+        break;
+      case "New York Islanders":
+        backgroundColor = "#F47D30"; // Orange for goaltenders
+        break;
+      default:
+        backgroundColor = "gray"; // Gray for other positions
+    }
+
+    card4.innerHTML = `
+        <div class = "card text-white">
+          <div class = "card-header">
+            ${member.name}
+          </div>
+          <div class = "card-image">
+            <img src="${member.img}" class="img-fluid">
+          </div>
+          <div class = "card-body" style="background-color:${backgroundColor};">
+           <p><strong>Age: </strong>${member.age}</p> 
+          </div>
+          <div class = "card-body" style="background-color:${backgroundColor};">
+            <p><strong>Position: </strong>${member.position}</p> 
+          </div>
+          <div class = "card-body" style="background-color:${backgroundColor};">
+            <p><strong>Club Team: </strong>${member.club}</p> 
+          </div>
+        </div>
+        `;
+    for (let i = 0; i < card4.children.length; i++) {
+      card4.children[i].style.backgroundColor = backgroundColor;
+    }
+    teamCardsContainer4.appendChild(card4);
   });
 }
 
