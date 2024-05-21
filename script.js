@@ -12,7 +12,7 @@ const teamMembers = [
     points: 1,
     biography:
       "Jason Robertson is considered to be one of the most talented wingers in the NHL.",
-    img: "imgs/pow.png"
+    img: "imgs/jasonrobertson.png"
   },
   {
     name: "Jack Hughes",
@@ -25,7 +25,7 @@ const teamMembers = [
     points: 1,
     biography:
       "Jack Hughes is considered to be one of the most talented centers in the NHL.",
-    img: "imgs/pow.png"
+    img: "imgs/jackhughes.png"
   },
   {
     name: "Nikita Kucherov",
@@ -38,7 +38,7 @@ const teamMembers = [
     points: 1,
     biography:
       "Nikita Kucherov is considered to be one of the most talented wingers in the NHL.",
-    img: "imgs/pow.png"
+    img: "imgs/nikitakucherov.png"
   },
   {
     name: "Artemi Panarin",
@@ -51,7 +51,7 @@ const teamMembers = [
     points: 1,
     biography:
       "Artemi Panarin is considered to be one of the most talented wingers in the NHL.",
-    img: "imgs/pow.png"
+    img: "imgs/artemipanarin.png"
   },
   {
     name: "Connor McDavid",
@@ -64,7 +64,7 @@ const teamMembers = [
     points: 1,
     biography:
       "Connor McDavid is considered to be one of the most talented centers in the NHL.",
-    img: "imgs/pow.png"
+    img: "imgs/connormcdavid.png"
   },
   {
     name: "David Pastrnak",
@@ -77,7 +77,7 @@ const teamMembers = [
     points: 1,
     biography:
       "David Pastrnak is considered to be one of the most talented wingers in the NHL.",
-    img: "imgs/pow.png"
+    img: "imgs/pastrnak.png"
   },
   {
     name: "Kirill Kaprizov",
@@ -90,7 +90,7 @@ const teamMembers = [
     points: 1,
     biography:
       "Kirill Kaprizov is considered to be one of the most talented wingers in the NHL.",
-    img: "imgs/pow.png"
+    img: "imgs/kaprizov.png"
   },
   {
     name: "Nathan MacKinnon",
@@ -103,7 +103,7 @@ const teamMembers = [
     points: 1,
     biography:
       "Nathan MacKinnon is considered to be one of the most talented centers in the NHL.",
-    img: "imgs/pow.png"
+    img: "imgs/mackinnon.png"
   },
   {
     name: "Mikko Rantanen",
@@ -116,7 +116,7 @@ const teamMembers = [
     points: 1,
     biography:
       "Mikko Rantanen is considered to be one of the most talented wingers in the NHL.",
-    img: "imgs/pow.png"
+    img: "imgs/rantanen.png"
   },
   {
     name: "Kyle Connor",
@@ -129,7 +129,7 @@ const teamMembers = [
     points: 1,
     biography:
       "Kyle Connor is considered to be one of the most talented wingers in the NHL.",
-    img: "imgs/pow.png"
+    img: "imgs/kyleconnor.png"
   },
   {
     name: "Auston Matthews",
@@ -142,7 +142,7 @@ const teamMembers = [
     points: 1,
     biography:
       "Auston Matthews is considered to be one of the most talented centers in the NHL.",
-    img: "imgs/pow.png"
+    img: "imgs/austonmatthews.png"
   },
   {
     name: "Mitch Marner",
@@ -155,7 +155,7 @@ const teamMembers = [
     points: 1,
     biography:
       "Mitch Marner is considered to be one of the most talented wingers in the NHL.",
-    img: "imgs/pow.png"
+    img: "imgs/mitchmarner.png"
   },
 ];
 
@@ -171,7 +171,7 @@ const teamMembers2 = [
     points: 1,
     biography:
       "Cale Makar is considered to be one of the most talented defensemen in the NHL.",
-    img: "imgs/pow.png"
+    img: "imgs/makar.png"
   },
   {
     name: "Adam Fox",
@@ -184,7 +184,7 @@ const teamMembers2 = [
     points: 1,
     biography:
       "Adam Fox is considered to be one of the most talented defensemen in the NHL.",
-    img: "imgs/pow.png"
+    img: "imgs/adamfox.png"
   },
   {
     name: "Miro Heiskanen",
@@ -197,7 +197,7 @@ const teamMembers2 = [
     points: 1,
     biography:
       "Miro Heiskanen is considered to be one of the most talented defensemen in the NHL.",
-    img: "imgs/pow.png"
+    img: "imgs/miroheiskanen.png"
   },
   {
     name: "Quinn Hughes",
@@ -210,7 +210,7 @@ const teamMembers2 = [
     points: 1,
     biography:
       "Quinn Hughes is considered to be one of the most talented defensemen in the NHL.",
-    img: "imgs/pow.png"
+    img: "imgs/quinnhughes.png"
   },
   {
     name: "Charlie McAvoy",
@@ -223,7 +223,7 @@ const teamMembers2 = [
     points: 1,
     biography:
       "Charlie McAvoy is considered to be one of the most talented defensemen in the NHL.",
-    img: "imgs/pow.png"
+    img: "imgs/mcavoy.png"
   },
   {
     name: "Victor Hedman",
@@ -236,13 +236,13 @@ const teamMembers2 = [
     points: 1,
     biography:
       "Victor Hedman is considered to be one of the most talented defensemen in the NHL.",
-    img: "imgs/pow.png"
+    img: "imgs/hedman.png"
   },
 ];
 
 const teamMembers3 = [
   {
-    name: "Leon Draisatl",
+    name: "Leon Draisaitl",
     age: 28,
     number: 29,
     club: "Edmonton Oilers",
@@ -252,7 +252,7 @@ const teamMembers3 = [
     points: 1,
     biography:
       "Leon Draisaitl is considered to be one of the most talented defensemen in the NHL.",
-    img: "imgs/pow.png"
+    img: "imgs/draisaitl.png"
   },
   {
     name: "Matthew Tkachuk",
@@ -265,7 +265,7 @@ const teamMembers3 = [
     points: 1,
     biography:
       "Matthew Tkachuk is considered to be one of the most talented defensemen in the NHL.",
-    img: "imgs/pow.png"
+    img: "imgs/tkachuk.png"
   },
   {
     name: "Roman Josi",
@@ -278,7 +278,7 @@ const teamMembers3 = [
     points: 1,
     biography:
       "Roman Josi is considered to be one of the most talented defensemen in the NHL.",
-    img: "imgs/pow.png"
+    img: "imgs/josi.png"
   },
 ];
 
@@ -291,7 +291,7 @@ const teamMembers4 = [
     position: "Goalie",
     biography:
       "Igor Shesterkin is considered to be one of the most talented defensemen in the NHL.",
-    img: "imgs/pow.png"
+    img: "imgs/shesterkin.png"
   },
   {
     name: "Ilya Sorokin",
@@ -301,7 +301,7 @@ const teamMembers4 = [
     position: "Goalie",
     biography:
       "Ilya Sorokin is considered to be one of the most talented defensemen in the NHL.",
-    img: "imgs/pow.png"
+    img: "imgs/sorokin.png"
   }
 ];
 
