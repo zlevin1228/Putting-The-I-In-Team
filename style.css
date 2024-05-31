@@ -11,3 +11,8 @@ footer {
     height: 7.5rem;
     width: auto;
 }
+
+body {
+    background-image: url("imgs/hockeyrink.jpg");
+    background-size: contain;
+}
