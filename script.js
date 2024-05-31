@@ -7,9 +7,9 @@ const teamMembers = [
     number: 21,
     club: "Dallas Stars",
     position: "Winger",
-    goals: 1,
-    assists: 1,
-    points: 1,
+    goals: 29,
+    assists: 51,
+    points: 80,
     biography:
       "Jason Robertson is considered to be one of the most talented wingers in the NHL.",
     img: "imgs/jasonrobertson.png"
@@ -20,9 +20,9 @@ const teamMembers = [
     number: 86,
     club: "New Jersey Devils",
     position: "Center",
-    goals: 1,
-    assists: 1,
-    points: 1,
+    goals: 27,
+    assists: 47,
+    points: 74,
     biography:
       "Jack Hughes is considered to be one of the most talented centers in the NHL.",
     img: "imgs/jackhughes.png"
@@ -33,9 +33,9 @@ const teamMembers = [
     number: 86,
     club: "Tampa Bay Lightning",
     position: "Winger",
-    goals: 1,
-    assists: 1,
-    points: 1,
+    goals: 44,
+    assists: 100,
+    points: 144,
     biography:
       "Nikita Kucherov is considered to be one of the most talented wingers in the NHL.",
     img: "imgs/nikitakucherov.png"
@@ -46,9 +46,9 @@ const teamMembers = [
     number: 10,
     club: "New York Rangers",
     position: "Winger",
-    goals: 1,
-    assists: 1,
-    points: 1,
+    goals: 49,
+    assists: 71,
+    points: 120,
     biography:
       "Artemi Panarin is considered to be one of the most talented wingers in the NHL.",
     img: "imgs/artemipanarin.png"
@@ -59,9 +59,9 @@ const teamMembers = [
     number: 97,
     club: "Edmonton Oilers",
     position: "Center",
-    goals: 1,
-    assists: 1,
-    points: 1,
+    goals: 32,
+    assists: 100,
+    points: 132,
     biography:
       "Connor McDavid is considered to be one of the most talented centers in the NHL.",
     img: "imgs/connormcdavid.png"
@@ -72,9 +72,9 @@ const teamMembers = [
     number: 88,
     club: "Boston Bruins",
     position: "Winger",
-    goals: 1,
-    assists: 1,
-    points: 1,
+    goals: 47,
+    assists: 63,
+    points: 110,
     biography:
       "David Pastrnak is considered to be one of the most talented wingers in the NHL.",
     img: "imgs/pastrnak.png"
@@ -85,9 +85,9 @@ const teamMembers = [
     number: 97,
     club: "Minnesota Wild",
     position: "Winger",
-    goals: 1,
-    assists: 1,
-    points: 1,
+    goals: 46,
+    assists: 50,
+    points: 196,
     biography:
       "Kirill Kaprizov is considered to be one of the most talented wingers in the NHL.",
     img: "imgs/kaprizov.png"
@@ -98,9 +98,9 @@ const teamMembers = [
     number: 29,
     club: "Colorado Avalanche",
     position: "Center",
-    goals: 1,
-    assists: 1,
-    points: 1,
+    goals: 51,
+    assists: 89,
+    points: 140,
     biography:
       "Nathan MacKinnon is considered to be one of the most talented centers in the NHL.",
     img: "imgs/mackinnon.png"
@@ -111,9 +111,9 @@ const teamMembers = [
     number: 96,
     club: "Colorado Avalanche",
     position: "Winger",
-    goals: 1,
-    assists: 1,
-    points: 1,
+    goals: 42,
+    assists: 62,
+    points: 104,
     biography:
       "Mikko Rantanen is considered to be one of the most talented wingers in the NHL.",
     img: "imgs/rantanen.png"
@@ -124,9 +124,9 @@ const teamMembers = [
     number: 81,
     club: "Winnipeg Jets",
     position: "Winger",
-    goals: 1,
-    assists: 1,
-    points: 1,
+    goals: 34,
+    assists: 27,
+    points: 61,
     biography:
       "Kyle Connor is considered to be one of the most talented wingers in the NHL.",
     img: "imgs/kyleconnor.png"
@@ -137,9 +137,9 @@ const teamMembers = [
     number: 34,
     club: "Toronto Maple Leafs",
     position: "Center",
-    goals: 1,
-    assists: 1,
-    points: 1,
+    goals: 69,
+    assists: 38,
+    points: 107,
     biography:
       "Auston Matthews is considered to be one of the most talented centers in the NHL.",
     img: "imgs/austonmatthews.png"
@@ -150,9 +150,9 @@ const teamMembers = [
     number: 16,
     club: "Toronto Maple Leafs",
     position: "Winger",
-    goals: 1,
-    assists: 1,
-    points: 1,
+    goals: 26,
+    assists: 59,
+    points: 85,
     biography:
       "Mitch Marner is considered to be one of the most talented wingers in the NHL.",
     img: "imgs/mitchmarner.png"
@@ -166,9 +166,9 @@ const teamMembers2 = [
     number: 8,
     club: "Colorado Avalanche",
     position: "Defenseman",
-    goals: 1,
-    assists: 1,
-    points: 1,
+    goals: 21,
+    assists: 69,
+    points: 90,
     biography:
       "Cale Makar is considered to be one of the most talented defensemen in the NHL.",
     img: "imgs/makar.png"
@@ -179,9 +179,9 @@ const teamMembers2 = [
     number: 23,
     club: "New York Rangers",
     position: "Defenseman",
-    goals: 1,
-    assists: 1,
-    points: 1,
+    goals: 17,
+    assists: 56,
+    points: 73,
     biography:
       "Adam Fox is considered to be one of the most talented defensemen in the NHL.",
     img: "imgs/adamfox.png"
@@ -192,9 +192,9 @@ const teamMembers2 = [
     number: 4,
     club: "Dallas Stars",
     position: "Defenseman",
-    goals: 1,
-    assists: 1,
-    points: 1,
+    goals: 9,
+    assists: 45,
+    points: 54,
     biography:
       "Miro Heiskanen is considered to be one of the most talented defensemen in the NHL.",
     img: "imgs/miroheiskanen.png"
@@ -205,9 +205,9 @@ const teamMembers2 = [
     number: 43,
     club: "Vancouver Canucks",
     position: "Defenseman",
-    goals: 1,
-    assists: 1,
-    points: 1,
+    goals: 17,
+    assists: 75,
+    points: 92,
     biography:
       "Quinn Hughes is considered to be one of the most talented defensemen in the NHL.",
     img: "imgs/quinnhughes.png"
@@ -218,9 +218,9 @@ const teamMembers2 = [
     number: 73,
     club: "Boston Bruins",
     position: "Defenseman",
-    goals: 1,
-    assists: 1,
-    points: 1,
+    goals: 12,
+    assists: 35,
+    points: 47,
     biography:
       "Charlie McAvoy is considered to be one of the most talented defensemen in the NHL.",
     img: "imgs/mcavoy.png"
@@ -231,9 +231,9 @@ const teamMembers2 = [
     number: 77,
     club: "Tampa Bay Lightning",
     position: "Defenseman",
-    goals: 1,
-    assists: 1,
-    points: 1,
+    goals: 13,
+    assists: 63,
+    points: 76,
     biography:
       "Victor Hedman is considered to be one of the most talented defensemen in the NHL.",
     img: "imgs/hedman.png"
@@ -247,9 +247,9 @@ const teamMembers3 = [
     number: 29,
     club: "Edmonton Oilers",
     position: "Center",
-    goals: 1,
-    assists: 1,
-    points: 1,
+    goals: 41,
+    assists: 65,
+    points: 106,
     biography:
       "Leon Draisaitl is considered to be one of the most talented defensemen in the NHL.",
     img: "imgs/draisaitl.png"
@@ -260,9 +260,9 @@ const teamMembers3 = [
     number: 19,
     club: "Florida Panthers",
     position: "Winger",
-    goals: 1,
-    assists: 1,
-    points: 1,
+    goals: 26,
+    assists: 62,
+    points: 88,
     biography:
       "Matthew Tkachuk is considered to be one of the most talented defensemen in the NHL.",
     img: "imgs/tkachuk.png"
@@ -273,9 +273,9 @@ const teamMembers3 = [
     number: 59,
     club: "Nashville Predators",
     position: "Defenseman",
-    goals: 1,
-    assists: 1,
-    points: 1,
+    goals: 23,
+    assists: 62,
+    points: 85,
     biography:
       "Roman Josi is considered to be one of the most talented defensemen in the NHL.",
     img: "imgs/josi.png"
@@ -357,22 +357,22 @@ function generateTeamCards() {
             <div class = "card-image">
               <img src="${member.img}" class="img-fluid">
             </div>
-            <div class = "card-body" style="background-color:${backgroundColor};">
+            <div class = "card-body py-0" style="background-color:${backgroundColor};">
                 <p><strong>Age: </strong>${member.age}</p> 
             </div>
-            <div class = "card-body" style="background-color:${backgroundColor};">
+            <div class = "card-body py-0" style="background-color:${backgroundColor};">
                 <p><strong>Position: </strong>${member.position}</p> 
             </div>
-            <div class = "card-body" style="background-color:${backgroundColor};">
+            <div class = "card-body py-0" style="background-color:${backgroundColor};">
                 <p><strong>Club Team: </strong>${member.club}</p> 
             </div>
-            <div class = "card-body" style="background-color:${backgroundColor};">
+            <div class = "card-body py-0" style="background-color:${backgroundColor};">
                 <p><strong>Goals: </strong>${member.goals}</p> 
             </div>
-            <div class = "card-body" style="background-color:${backgroundColor};">
+            <div class = "card-body py-0" style="background-color:${backgroundColor};">
                 <p><strong>Assists: </strong>${member.assists}</p> 
             </div>
-            <div class = "card-body" style="background-color:${backgroundColor};">
+            <div class = "card-body py-0" style="background-color:${backgroundColor};">
                 <p><strong>Points: </strong>${member.points}</p> 
             </div>
         </div>
@@ -421,22 +421,22 @@ function generateTeamCards() {
           <div class = "card-image">
             <img src="${member.img}" class="img-fluid">
           </div>
-          <div class = "card-body" style="background-color:${backgroundColor};">
+          <div class = "card-body py-0" style="background-color:${backgroundColor};">
            <p><strong>Age: </strong>${member.age}</p> 
           </div>
-          <div class = "card-body" style="background-color:${backgroundColor};">
+          <div class = "card-body py-0" style="background-color:${backgroundColor};">
             <p><strong>Position: </strong>${member.position}</p> 
           </div>
-          <div class = "card-body" style="background-color:${backgroundColor};">
+          <div class = "card-body py-0" style="background-color:${backgroundColor};">
             <p><strong>Club Team: </strong>${member.club}</p> 
           </div>
-          <div class = "card-body" style="background-color:${backgroundColor};">
+          <div class = "card-body py-0" style="background-color:${backgroundColor};">
             <p><strong>Goals: </strong>${member.goals}</p> 
           </div>
-          <div class = "card-body" style="background-color:${backgroundColor};">
+          <div class = "card-body py-0" style="background-color:${backgroundColor};">
             <p><strong>Assists: </strong>${member.assists}</p> 
           </div>
-          <div class = "card-body" style="background-color:${backgroundColor};">
+          <div class = "card-body py-0" style="background-color:${backgroundColor};">
             <p><strong>Points: </strong>${member.points}</p> 
           </div>
         </div>
@@ -477,22 +477,22 @@ function generateTeamCards() {
           <div class = "card-image">
             <img src="${member.img}" class="img-fluid">
           </div>
-          <div class = "card-body" style="background-color:${backgroundColor};">
+          <div class = "card-body py-0" style="background-color:${backgroundColor};">
            <p><strong>Age: </strong>${member.age}</p> 
           </div>
-          <div class = "card-body" style="background-color:${backgroundColor};">
+          <div class = "card-body py-0" style="background-color:${backgroundColor};">
             <p><strong>Position: </strong>${member.position}</p> 
           </div>
-          <div class = "card-body" style="background-color:${backgroundColor};">
+          <div class = "card-body py-0" style="background-color:${backgroundColor};">
             <p><strong>Club Team: </strong>${member.club}</p> 
           </div>
-          <div class = "card-body" style="background-color:${backgroundColor};">
+          <div class = "card-body py-0" style="background-color:${backgroundColor};">
             <p><strong>Goals: </strong>${member.goals}</p> 
           </div>
-          <div class = "card-body" style="background-color:${backgroundColor};">
+          <div class = "card-body py-0" style="background-color:${backgroundColor};">
             <p><strong>Assists: </strong>${member.assists}</p> 
           </div>
-          <div class = "card-body" style="background-color:${backgroundColor};">
+          <div class = "card-body py-0" style="background-color:${backgroundColor};">
             <p><strong>Points: </strong>${member.points}</p> 
           </div>
         </div>
@@ -530,13 +530,13 @@ function generateTeamCards() {
           <div class = "card-image">
             <img src="${member.img}" class="img-fluid">
           </div>
-          <div class = "card-body" style="background-color:${backgroundColor};">
+          <div class = "card-body py-0" style="background-color:${backgroundColor};">
            <p><strong>Age: </strong>${member.age}</p> 
           </div>
-          <div class = "card-body" style="background-color:${backgroundColor};">
+          <div class = "card-body py-0" style="background-color:${backgroundColor};">
             <p><strong>Position: </strong>${member.position}</p> 
           </div>
-          <div class = "card-body" style="background-color:${backgroundColor};">
+          <div class = "card-body py-0" style="background-color:${backgroundColor};">
             <p><strong>Club Team: </strong>${member.club}</p> 
           </div>
         </div>
