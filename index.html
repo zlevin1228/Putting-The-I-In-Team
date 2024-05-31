@@ -18,15 +18,38 @@
     />
     <link rel="stylesheet" href="style.css" />
     <link rel="icon" type="image/x-icon" href="imgs/nhl.webp"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Delius&display=swap"
+      rel="stylesheet"
+    />
   </head>
 
   <body>
-    <header>
-      <!-- place navbar here -->
+    <header class="text-white text-center py-2">
+      <div class="container">
+        <div class="row justify-content-center align-items-center text-center">
+          <img
+            src="imgs/nhl.webp"
+            class="img-head col-4 img-fluid"
+          /><!--Img from Wikipedia-->
+          <div class="col-4 text-center">
+            <h1 class="display-5">
+              NHL Super Squad
+            </h1>
+            <p>An All-Star Team!</p>
+          </div>
+          <img
+            src="imgs/nhl.webp"
+            class="img-head col-4 img-fluid"
+          /><!--Img from Wikipedia-->
+        </div>
+      </div>
     </header>
     <main>
         <div class="container text-center">
-            <h1><b><u>Forwards</u></b></h1>
+            <h1 class="pt-1"><b><u>Forwards</u></b></h1>
             <div class="row" id="teamCardsForwards"></div>
             <hr>
             <h1><b><u>Defensemen</u></b></h1>

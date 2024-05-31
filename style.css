@@ -1,0 +1,13 @@
+header,
+footer {
+    background-color: black;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+    font-family: 'Delius';
+}
+
+.img-head {
+    height: 7.5rem;
+    width: auto;
+}
