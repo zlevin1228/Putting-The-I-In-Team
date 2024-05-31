@@ -87,7 +87,7 @@ const teamMembers = [
     position: "Winger",
     goals: 46,
     assists: 50,
-    points: 196,
+    points: 106,
     biography:
       "Kirill Kaprizov is considered to be one of the most talented wingers in the NHL.",
     img: "imgs/kaprizov.png"

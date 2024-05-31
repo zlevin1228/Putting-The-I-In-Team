@@ -15,4 +15,14 @@ footer {
 body {
     background-image: url("imgs/hockeyrink.jpg");
     background-size: contain;
+    color: black;
+}
+
+h1.class {
+    background-color: white;
+    border-radius: 5px;
+}
+
+.style {
+    padding-top: 5px;
 }
